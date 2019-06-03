@@ -13,7 +13,8 @@ To get going with Colab:
 4. When the notebook loads we want to switch to using a GPU supported environment, so in the menu go to "Runtime" and
 then "Change runtime type". 
 5. Choose GPU under hardware accelerator and then click Save.
-6. You can start using the notebooks by clicking on the run icons to the left of each cell or press ctrl+Enter.
+6. You can start using the notebooks by clicking on the run icons to the left of each cell or press ctrl+Enter. (You will
+get popups about the notebook not being authored by Google and other things, just click Yes to these)
 
 ## Installing Python Locally
 
