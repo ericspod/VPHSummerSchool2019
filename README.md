@@ -1,7 +1,13 @@
 # VPHSummerSchool2019
-Code and data for the summer school deep learning workshop
+Code and data for the summer school deep learning workshop.
 
-## Getting Started with Colaboratory
+The exercises for this workshop are organized into Jupyter Notebooks which is a way of serving executable Python code on
+a web page. A local Jupyter server can be run by installing it with Anaconda (or Miniconda), or through the internet using
+Google's Colaboratory service. 
+
+Start by downloading this repository so you have all the code with you: https://github.com/ericspod/VPHSummerSchool2019/archive/master.zip
+
+## Getting Started With Colaboratory
 
 We will be using Google Colaboratory to run our notebooks when doing training since a GPU is basically required. You can
 run the other notebooks locally but everything can be done through Colab if desired.
@@ -18,13 +24,21 @@ get popups about the notebook not being authored by Google and other things, jus
 
 ## Installing Python Locally
 
-We need to install Python 3.7, Numpy, PyTorch, Jupyter, and Matplotlib. 
+If you want to run locally we need to install Python 3.7, Numpy, PyTorch, Jupyter, and Matplotlib. 
 These can be installed separately through the standard distributions from the sites for each package,
 or using a managed package system like Anaconda/Miniconda.
 
-The best way is with Anaconda. 
+The fastest way is with Miniconda:
 
-1. Go to https://www.anaconda.com/distribution and download the Python 3.7 graphical installed for your OS.
+1. Go to https://docs.conda.io/en/latest/miniconda.html and download the Python 3.7 64bit installer for your OS.
+2. Install Miniconda using the default options given
+3. In the Start Menu, go to "Anaconda3" -> "Anaconda Prompt"
+4. Type `conda install numpy jupyter pytorch matplotlib` to install the components needed.
+5. To start Jupyter, from this console type `jupyter notebook`
+
+The best but slow way is with Anaconda. 
+
+1. Go to https://www.anaconda.com/distribution and download the Python 3.7 graphical installer for your OS.
 2. Install Anaconda, following instructions here: https://docs.anaconda.com/anaconda/install/
 3. Start the Anaconda Navigator program
 4. Navigate to "Environments" and click on "base (root)"
