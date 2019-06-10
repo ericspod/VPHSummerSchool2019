@@ -33,12 +33,12 @@ or using a managed package system like Anaconda/Miniconda.
 The fastest way is with Miniconda:
 
 1. Go to https://docs.conda.io/en/latest/miniconda.html and download the Python 3.7 64bit installer for your OS.
-2. Install Miniconda using the default options given
+2. Install Miniconda, checking the box to set the PATH variable
 3. In the Start Menu, go to "Anaconda3" -> "Anaconda Prompt"
 4. Type `conda install jupyter pytorch matplotlib scikit-learn` to install the components needed.
 5. To start Jupyter, from this console type `jupyter notebook`
 
-The best but slow way is with Anaconda. 
+The complete but slow way is with Anaconda. 
 
 1. Go to https://www.anaconda.com/distribution and download the Python 3.7 graphical installer for your OS.
 2. Install Anaconda, following instructions here: https://docs.anaconda.com/anaconda/install/
