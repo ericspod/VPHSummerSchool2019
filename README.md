@@ -49,3 +49,9 @@ The best but slow way is with Anaconda.
 7. PyTorch 1.0.1 should show up, select it and install
 8. Return to home and launch Jupyter Notebook. This should bring to your browser with the notebook server running. 
 From here you can navigate to the workshop directory and start a notebook.
+
+## Links
+
+* Numpy manual: https://docs.scipy.org/doc/numpy/
+* Matplotlib manual: https://matplotlib.org/3.1.0/users/index.html
+* PyTorch manual: https://pytorch.org/docs/stable/index.html
