@@ -7,6 +7,8 @@ Google's Colaboratory service.
 
 Start by downloading this repository so you have all the code with you: https://github.com/ericspod/VPHSummerSchool2019/archive/master.zip
 
+Slides can also be viewed online at https://nbviewer.jupyter.org/github/ericspod/VPHSummerSchool2019
+
 ## Getting Started With Colaboratory
 
 We will be using Google Colaboratory to run our notebooks when doing training since a GPU is basically required. You can
