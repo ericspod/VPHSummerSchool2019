@@ -55,3 +55,6 @@ From here you can navigate to the workshop directory and start a notebook.
 * Numpy manual: https://docs.scipy.org/doc/numpy/
 * Matplotlib manual: https://matplotlib.org/3.1.0/users/index.html
 * PyTorch manual: https://pytorch.org/docs/stable/index.html
+* Python tutorial: https://www.python.org/about/gettingstarted
+* Python tutorial: http://www.learnpython.org
+* Deep Learning course: http://cs231n.github.io/
